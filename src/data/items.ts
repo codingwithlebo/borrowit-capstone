@@ -21,7 +21,9 @@ export const MOCK_ITEMS: Item[] = [
     category: "garden",
     pricing: "free",
     pricePerDay: null,
-    images: ["https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"],
+    images:["https://images.unsplash.com/photo-1590820292118-e256c3ac2676?w=800&q=80"],
+
+
     owner: { id: "o2", name: "Naledi K.", avatar: "https://i.pravatar.cc/150?img=5", rating: 4.9, reviewCount: 41, neighbourhood: "Greenside" },
     distanceKm: 1.2,
     available: true,
@@ -34,7 +36,8 @@ export const MOCK_ITEMS: Item[] = [
     category: "kitchen",
     pricing: "paid",
     pricePerDay: 120,
-    images: ["https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=80"],
+    images:  ["https://images.unsplash.com/photo-1758565810987-ca8d617ea7be?w=800&q=80"],
+
     owner: { id: "o3", name: "Amara T.", avatar: "https://i.pravatar.cc/150?img=9", rating: 5.0, reviewCount: 17, neighbourhood: "Linden" },
     distanceKm: 2.1,
     available: true,
@@ -47,7 +50,8 @@ export const MOCK_ITEMS: Item[] = [
     category: "sport",
     pricing: "paid",
     pricePerDay: 150,
-    images: ["https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=800&q=80"],
+    images:  ["https://images.unsplash.com/photo-1537225228614-56cc3556d7ed?w=800&q=80"],
+
     owner: { id: "o4", name: "Thabo N.", avatar: "https://i.pravatar.cc/150?img=3", rating: 4.7, reviewCount: 8, neighbourhood: "Northcliff" },
     distanceKm: 3.4,
     available: true,
@@ -60,7 +64,8 @@ export const MOCK_ITEMS: Item[] = [
     category: "electronics",
     pricing: "paid",
     pricePerDay: 200,
-    images: ["https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80"],
+
     owner: { id: "o5", name: "Lerato P.", avatar: "https://i.pravatar.cc/150?img=7", rating: 4.6, reviewCount: 12, neighbourhood: "Parktown" },
     distanceKm: 1.8,
     available: true,
@@ -73,7 +78,7 @@ export const MOCK_ITEMS: Item[] = [
     category: "tools",
     pricing: "free",
     pricePerDay: null,
-    images: ["https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800&q=80"],
+    images:["https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80"],
     owner: { id: "o6", name: "Kwame D.", avatar: "https://i.pravatar.cc/150?img=14", rating: 4.5, reviewCount: 6, neighbourhood: "Melville" },
     distanceKm: 0.5,
     available: true,
@@ -99,7 +104,7 @@ export const MOCK_ITEMS: Item[] = [
     category: "garden",
     pricing: "paid",
     pricePerDay: 110,
-    images: ["https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80"],
+    images: ["https://plus.unsplash.com/premium_photo-1682142564647-6f4396a34d02?w=800&q=80"],
     owner: { id: "o8", name: "Bongani S.", avatar: "https://i.pravatar.cc/150?img=20", rating: 4.7, reviewCount: 19, neighbourhood: "Auckland Park" },
     distanceKm: 1.5,
     available: true,
